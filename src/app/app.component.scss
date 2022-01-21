@@ -1,0 +1,10 @@
+@media only screen and (max-width: 959px) {
+  mat-drawer {
+    width: 70%;
+  }
+}
+@media only screen and (max-width: 599px) {
+  mat-drawer {
+    width: 100%;
+  }
+}
